@@ -206,11 +206,11 @@ left: 37px;
 @media (min-width: 320px) and (max-width: 480px){
  #jogo{
  top: 800px;
- left: 60px;
+
 }
 #calc{
  top:1300px;
- left: 60px;
+
 }   
 }
 @media (min-width: 320px) and (max-width: 480px){
