@@ -130,7 +130,7 @@ top: 0;
 position: relative;
 left: 37px;
 }
-@media (min-width: 400px) and (max-width: 600px){
+@media (min-width: 320px) and (max-width: 480px){
 
 #titulo{
     position: absolute;
@@ -164,13 +164,13 @@ left: 37px;
     border-right: transparent;
     background-color: transparent ;
 }
-@media (min-width: 400px) and (max-width: 600px){
+@media (min-width: 320px) and (max-width: 480px){
     body{
         height: 230vh;
         
     }
 }
-@media (min-width: 400px) and (max-width: 600px){
+@media (min-width: 320px) and (max-width: 480px){
    #deco{
     position: absolute;
     right: 0;
@@ -189,7 +189,7 @@ left: 37px;
     
 }
 }
-@media (min-width:400px) and (max-width:600px){
+@media (min-width: 320px) and (max-width: 480px){
 .bloco{
  border: 3px solid transparent;
  left: 110px;
@@ -203,7 +203,7 @@ left: 37px;
  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
 }
-@media (min-width:400px) and (max-width:600px){
+@media (min-width: 320px) and (max-width: 480px){
  #jogo{
  top: 800px;
  left: 110px;
@@ -213,7 +213,7 @@ left: 37px;
  left: 110px;
 }   
 }
-@media (min-width:400px) and (max-width:600px){
+@media (min-width: 320px) and (max-width: 480px){
 #titulão{
     position: relative;
     font-size: xx-large;
@@ -223,7 +223,7 @@ left: 37px;
     color: #ffffff;
 }
 }
-@media (min-width:400px) and (max-width:600px){
+@media (min-width: 320px) and (max-width: 480px){
 #cor-header{
 background-color:#FAA051;
 position: absolute;
