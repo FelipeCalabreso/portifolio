@@ -135,7 +135,7 @@ left: 37px;
 #titulo{
     position: absolute;
     top: 120px;
-    left: 90px;
+    left: 10px;
     width: 250px;
     height: 80px;
     font-size:xx-large;
@@ -206,10 +206,12 @@ left: 37px;
 @media (min-width: 320px) and (max-width: 480px){
  #jogo{
  top: 800px;
+ left: 60px;
 
 }
 #calc{
  top:1300px;
+ left: 60px;
 
 }   
 }
